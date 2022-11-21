@@ -1,3 +1,2 @@
-new todo v2
-new todo v5
-todo v6
+ToDo v1
+ToDo v2
